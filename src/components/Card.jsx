@@ -1,7 +1,7 @@
 
 const Card = () => {
   return (
-    <div>Hola, soy una tarjeta</div>
+    <div>Hola, soy una tarjeta.</div>
   )
 }
 
