@@ -1,0 +1,7 @@
+.formDeViajes{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: start;
+    font-weight: bold;
+}
